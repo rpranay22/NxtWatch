@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.image {
+  height: 40px;
+}
+.theme-icon {
+}
+.upd {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.logOutBtn {
+  font-weight: bold;
+  border: 2px solid blue;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+Link {
+  text-decoration: none;
+}

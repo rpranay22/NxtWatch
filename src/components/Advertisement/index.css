@@ -1,0 +1,27 @@
+.adv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: contain;
+
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  height: 250px;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+.getItBtn {
+  padding: 10px;
+  border: 2px solid rgb(135, 127, 127);
+  font-weight: 500;
+  font-family: roboto;
+  font-size: 15px;
+}
+.image {
+  height: 40px;
+}
+.crossBtn {
+  background: none;
+  border: none;
+}
+.conten {
+}

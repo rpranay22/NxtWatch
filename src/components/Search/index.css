@@ -1,0 +1,18 @@
+.srch {
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  width: 200px;
+  justify-content: space-between;
+}
+.se-icon {
+  border: 1px solid black;
+}
+.src {
+  border: none;
+  outline: none;
+  height: 30px;
+}
+Link {
+  text-decoration: none;
+}

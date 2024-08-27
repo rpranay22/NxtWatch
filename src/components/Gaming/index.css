@@ -1,0 +1,15 @@
+.gposter {
+  display: flex;
+  flex-wrap: wrap;
+}
+Link {
+  text-decoration: none;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: #0f0f0f;
+  color: white;
+}

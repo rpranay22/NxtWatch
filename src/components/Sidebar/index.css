@@ -1,0 +1,44 @@
+.sideBar {
+  display: flex;
+  flex-direction: column;
+}
+.sdElement {
+  display: flex;
+  align-items: center;
+}
+.sBar {
+  width: 15vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 94.5vh;
+  padding: 40px;
+}
+.icon {
+  height: 25px;
+  padding-right: 20px;
+}
+.socialMediaLists {
+  display: flex;
+}
+.sdElement > p {
+  margin-left: 20px;
+  font-weight: 500;
+}
+.footer > h1 {
+  font-size: 20px;
+}
+.footer > p {
+  font-weight: 500;
+}
+Link {
+  text-decoration: none;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}

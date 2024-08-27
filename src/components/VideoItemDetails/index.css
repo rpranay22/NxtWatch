@@ -1,0 +1,35 @@
+.sm {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.cnt {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.lk {
+  display: flex;
+}
+.pimg {
+  height: 40px;
+}
+.details {
+  display: flex;
+}
+.dt > h1 {
+  margin: 0px;
+}
+.dt {
+  margin-left: 10px;
+}
+.like,
+.dislike {
+  color: #64748b;
+}
+.blue {
+  color: #2563eb;
+}
+Link {
+  text-decoration: none;
+}

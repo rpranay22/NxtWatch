@@ -1,0 +1,30 @@
+.thumbnail-image {
+  height: 180px;
+}
+.profile-image {
+  height: 40px;
+}
+.views {
+  display: flex;
+}
+.views > p {
+  margin-right: 5px;
+}
+.video-details {
+  display: flex;
+  min-width: 200px;
+  width: 320px;
+  justify-content: center;
+}
+.psimg {
+  margin-top: 10px;
+
+  min-width: 200px;
+  width: 300px;
+}
+.para {
+  margin: 0px;
+}
+.nv {
+  text-decoration: none;
+}

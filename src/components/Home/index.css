@@ -1,0 +1,24 @@
+.content {
+  display: flex;
+}
+.filResults {
+  padding: 50px;
+  box-sizing: border-box;
+
+  height: 94.5vh;
+  overflow: auto;
+  width: 85vw;
+}
+.srcres {
+  background-color: white;
+  padding: 50px;
+}
+Link {
+  text-decoration: none;
+}
+.light {
+  background-color: white;
+}
+.dark {
+  background-color: #181818;
+}

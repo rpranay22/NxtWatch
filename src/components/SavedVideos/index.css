@@ -1,0 +1,20 @@
+Link {
+  text-decoration: none;
+}
+.novid {
+  height: 200px;
+}
+.nivid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: #0f0f0f;
+  color: white;
+}

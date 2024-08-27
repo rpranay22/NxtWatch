@@ -1,0 +1,28 @@
+.heading-trend {
+  display: flex;
+  align-items: center;
+}
+.heading-trend > h1 {
+  font-size: 40px;
+}
+.Fire {
+  background-color: white;
+  margin-right: 20px;
+  height: 70px;
+  width: 70px;
+  display: flex;
+  border-radius: 35px;
+  justify-content: center;
+  align-items: center;
+}
+Link {
+  text-decoration: none;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,28 @@
+.logOutBtn {
+  font-weight: bold;
+  border: 2px solid blue;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.styl {
+  background-color: pink;
+  border: 1px solid black;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.buttons {
+  display: flex;
+}
+.btn1 {
+  margin: 5px;
+}
+.btn2 {
+  background-color: blue;
+  color: white;
+  margin: 5px;
+}

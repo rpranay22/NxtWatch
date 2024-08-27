@@ -1,0 +1,19 @@
+.failed-image {
+  height: 150px;
+}
+.failed-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.retryBtn {
+  padding: 10px 20px 10px 20px;
+}
+.light {
+  color: white;
+}
+.dark {
+  color: white;
+}
